@@ -1,0 +1,9 @@
+{
+	"name": "dragondf",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18a1ea73-64d0-454a-acc0-8bbf74c08555",
+		"tenantId": "4cd03f70-3e9a-412a-804c-94ee31330b4b"
+	}
+}
